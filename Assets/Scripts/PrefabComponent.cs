@@ -7,15 +7,15 @@ namespace Akatsuki
     public class PrefabComponent : MonoBehaviour
     {
         [SerializeField]
-        private PrefabElemnet m_nullableElement;
+        private Image m_nullableElement;
 
         [NotNull, SerializeField]
-        private PrefabElemnet m_nonNullableElement;
+        private Image m_nonNullableElement;
 
         [SerializeField]
-        private PrefabElemnet m_missingElement;
+        private Image m_missingElement;
 
         [SerializeField]
-        private Image m_image;
+        private Image m_missingSpriteElement;
     }
 }
