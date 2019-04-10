@@ -2,7 +2,7 @@
 
 namespace Akatsuki.Validators
 {
-    public class NotNullAttribute : PropertyAttribute
+    public class ReadOnlyAttribute : PropertyAttribute
     {
     }
 }

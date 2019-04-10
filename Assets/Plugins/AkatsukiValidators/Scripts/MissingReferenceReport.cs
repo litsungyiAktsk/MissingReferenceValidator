@@ -9,7 +9,7 @@ namespace Akatsuki.Validators
     public class MissingReferenceReport : MonoBehaviour
     {
         Image image;
-        [SerializeField]
+        [ReadOnly, SerializeField]
         private MessageInfo m_message;
 
         internal void Initialize(MessageInfo message)
