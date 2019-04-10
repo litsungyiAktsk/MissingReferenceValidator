@@ -13,9 +13,6 @@ namespace Akatsuki
         private Image m_nonNullableElement;
 
         [SerializeField]
-        private Image m_missingElement;
-
-        [SerializeField]
         private Image m_missingSpriteElement;
     }
 }
