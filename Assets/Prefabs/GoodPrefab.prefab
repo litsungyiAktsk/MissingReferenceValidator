@@ -43,7 +43,7 @@ MonoBehaviour:
   m_nullableElement: {fileID: 0}
   m_nonNullableElement: {fileID: 114893136033140790, guid: 7cf69ba75123a4f0a81edc5d9a4421ac,
     type: 2}
-  m_missingElement: {fileID: 114893136033140790, guid: ea8fab4b7fd9a4d9d88530a378bb6970,
+  m_missingElement: {fileID: 114893136033140790, guid: 7cf69ba75123a4f0a81edc5d9a4421ac,
     type: 2}
   m_image: {fileID: 114432868461237328}
 --- !u!114 &114432868461237328
