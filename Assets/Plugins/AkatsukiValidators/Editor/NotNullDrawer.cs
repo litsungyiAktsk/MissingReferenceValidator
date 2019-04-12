@@ -15,7 +15,6 @@ namespace Akatsuki.Validators
         {
             if (property.objectReferenceValue == null)
             {
-
                 var oldColor = GUI.contentColor;
                 label.tooltip = $"`{label.text}` cannot be null!";
                 GUI.contentColor = Color.red;
